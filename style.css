@@ -11,5 +11,24 @@ header{
  /*Fine grafica top articolo*/
 
  /*Inizio titolo articolo*/
+ #titolo_articolo{
+    margin-bottom: 0px;
+}
 
+ #link{
+    color: #20A9E5;
+    font-size: 10px;
+    margin: 0px;
+}
+
+.autore{
+    color: #808080;
+    font-size: 10px;
+    margin: 0px;
+}
  /*Fine titlo articolo*/
+
+  /*Inizio foto + descrizione articolo*/
+
+
+ /*Fine foto + descrizione articolo*/
