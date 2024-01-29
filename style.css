@@ -28,11 +28,17 @@ header{
 }
  /*Fine titlo articolo*/
 
-  /*Inizio descrizione foto*/
-
+/*Inizio descrizione foto*/
 .descrizione_foto{
 font-size: 13px;
 margin: 0px;
 }
+/*Fine descrizione foto*/
 
- /*Fine descrizione foto*/
+/*Inizio testo articolo*/
+p {
+    font-size: 18px;
+}
+/*Fine testo articolo*/
+
+ 
