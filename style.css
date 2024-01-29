@@ -35,10 +35,10 @@ margin: 0px;
 }
 /*Fine descrizione foto*/
 
-/*Inizio testo articolo*/
-p {
+/*Inizio testo ed elenco articolo*/
+p, li {
     font-size: 18px;
 }
-/*Fine testo articolo*/
+/*Fine testo ed elenco articolo*/
 
  
