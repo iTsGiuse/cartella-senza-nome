@@ -2,11 +2,14 @@
 header{
     background-image: url(./img/pattern.png);
     background-color: #4EA0FF ;
+    background-size: contain;
+    background-repeat: repeat;
 }
 
 #logo{
     width: 200px;
     height: 100px;
+    
 }
  /*Fine grafica top articolo*/
 
