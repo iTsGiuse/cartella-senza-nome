@@ -41,4 +41,18 @@ p, li {
 }
 /*Fine testo ed elenco articolo*/
 
+/*Inizio formattazione tabella articolo*/
+#titolo_tabella{
+    color: white;
+    background-color: #4EA0FF;
+}
+
+.riga_azzurra_tabella{
+    background-color: azure;
+}
+
+td{
+    width: 2000px;
+}
+/*Fine formattazione tabella articolo*/
  
